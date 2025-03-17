@@ -44,9 +44,7 @@ git commit -m "첫 번째 커밋"
 GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 통해 원격 저장소를 사용할 수 있습니다:
 
 **1. GitHub 계정 생성**
-
 **2. 새로운 리포지토리 생성**
-
 **3. 원격 저장소 연결:**
 
 ```
@@ -58,5 +56,5 @@ git push origin main
 
 ## 추가 리소스
 
-- Git에 대해 더 알고 싶다면, Git 공식 문서(https://git-scm.com/doc)를 확인하세요.
-- GitHub 사용법에 대한 자세한 정보는 GitHub Docs(https://docs.github.com/en)에서 찾아볼 수 있습니다.
+- Git에 대해 더 알고 싶다면, [Git 공식 문서](https://git-scm.com/doc)를 확인하세요.
+- GitHub 사용법에 대한 자세한 정보는 [GitHub Docs](https://docs.github.com/en)에서 찾아볼 수 있습니다.

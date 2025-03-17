@@ -2,11 +2,11 @@
 
 ## 목차
 
-- [Git이란?](https://tecoble.techcourse.co.kr/static/d0f3454b578873dff73251477ca0e729/09a10/dot-git.jpg)
-- [Git 기본 명령어](https://tecoble.techcourse.co.kr/static/d0f3454b578873dff73251477ca0e729/09a10/dot-git.jpg)
+- [Git이란?](https://github.com/kimjaehyeonn/minihomepage/blob/main/git_basic_practice.md#git%EC%9D%B4%EB%9E%80)
+- [Git 기본 명령어](https://github.com/kimjaehyeonn/minihomepage/blob/main/git_basic_practice.md#git-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
 - [브랜치와 병합]
-- [GitHub 사용](https://tecoble.techcourse.co.kr/static/d0f3454b578873dff73251477ca0e729/09a10/dot-git.jpg)
-- [추가 리소스](https://tecoble.techcourse.co.kr/static/d0f3454b578873dff73251477ca0e729/09a10/dot-git.jpg)
+- [GitHub 사용](https://github.com/kimjaehyeonn/minihomepage/blob/main/git_basic_practice.md#github-%EC%82%AC%EC%9A%A9)
+- [추가 리소스](https://github.com/kimjaehyeonn/minihomepage/blob/main/git_basic_practice.md#%EC%B6%94%EA%B0%80-%EB%A6%AC%EC%86%8C%EC%8A%A4)
 
 ## Git이란?
 

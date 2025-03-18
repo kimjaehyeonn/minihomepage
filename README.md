@@ -13,6 +13,10 @@
 
 - style.md 파일 추가
 
+## side bar
+
+- sidebar.md
+
 ## 좋아하는 음식
 
 ## 실습실습
